@@ -6,6 +6,12 @@ A completely useless invention that fetches random useless facts from the intern
 
 This Python script demonstrates the art of doing something pointless but technically functional. It uses the [Useless Facts API](https://uselessfacts.jsph.pl/) to retrieve random facts that serve no practical purpose whatsoever.
 
+## Technologies Used
+
+- **Python**: The programming language used to build the script.
+- **requests**: A Python library for making HTTP requests to the API.
+- **Useless Facts API**: An external REST API that provides random useless facts.
+
 ## Requirements
 
 - Python 3.6+
