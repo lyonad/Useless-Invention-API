@@ -55,6 +55,10 @@ Your useless fact: Lawn darts are illegal in Canada.
 Commentary: This fact is so useless, it might just change your life... or not.
 ```
 
+## Demo
+
+![Demo](Demo.png)
+
 ## Why?
 
 Because sometimes, you just need a break from productivity.
